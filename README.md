@@ -48,52 +48,35 @@ Automated-Resume-Screening/
 └── templates/
     └── index.html             # Front-end UI
 
-⚙️ Local Setup
-1. Clone the Repository
+```
+## ⚙️ Local Setup
+
+### 1️⃣ Clone the Repository
+```bash
 git clone https://github.com/Navya032006/Automated-Resume-Screening.git
 cd Automated-Resume-Screening
-
-2. Create & Activate a Virtual Environment (optional but recommended)
+```
+### 2️⃣ Create & Activate a Virtual Environment (optional but recommended)
+```bash
 python -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
-
-3. Install Dependencies
-
+```
+### 3️⃣ Install Dependencies
+```bash
 Make sure requirements.txt is in the project root, then run:
-
 pip install -r requirements.txt
-
-4. Run the Flask App
+```
+### 4️⃣ Run the Flask App
+```bash
 python app.py
-
-
-By default, the app runs on:
-
+```
+### By default, the app runs on:
+```bash
 http://0.0.0.0:8000
-
-
-or
-
+```
+### or:
+```bash
 http://localhost:8000
-
-💻 Using the Web App
-
-Open the URL in your browser.
-
-Paste the Job Description in the text box.
-
-Upload one or more resumes:
-
-.pdf (text-extractable PDFs)
-
-.txt (plain text)
-
-Click on the Analyze button.
-
-The app:
-
-Processes each resume
-
-Shows category, confidence, fit score, matched skills, experience and project count
-
-Ranks resumes from best to worst match based on fit score.
+```
+### 🌐 Deployment:
+https://automated-resume-screening-1.onrender.com
