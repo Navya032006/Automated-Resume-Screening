@@ -49,6 +49,8 @@ Automated-Resume-Screening/
     └── index.html             # Front-end UI
 
 ```
+---
+
 ## ⚙️ Local Setup
 
 ### 1️⃣ Clone the Repository
@@ -63,7 +65,6 @@ source venv/bin/activate      # On Windows: venv\Scripts\activate
 ```
 ### 3️⃣ Install Dependencies
 ```bash
-Make sure requirements.txt is in the project root, then run:
 pip install -r requirements.txt
 ```
 ### 4️⃣ Run the Flask App
@@ -78,5 +79,7 @@ http://0.0.0.0:8000
 ```bash
 http://localhost:8000
 ```
+---
+
 ### 🌐 Deployment:
 https://automated-resume-screening-1.onrender.com
