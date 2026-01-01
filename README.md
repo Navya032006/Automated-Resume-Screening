@@ -51,6 +51,15 @@ Automated-Resume-Screening/
 ```
 ---
 
+## 📷 Screenshots
+<img width="1772" height="906" alt="Screenshot 2026-01-01 160721" src="https://github.com/user-attachments/assets/5cbecb07-d97c-40cf-9aa9-a9b9b82bd7d5" />
+
+<img width="1759" height="899" alt="Screenshot 2026-01-01 160744" src="https://github.com/user-attachments/assets/9785d181-3408-424f-a8da-5f93e4f86347" />
+
+<img width="1756" height="917" alt="Screenshot 2026-01-01 160801" src="https://github.com/user-attachments/assets/823ae619-3214-4ff6-bfbc-dad62261f627" />
+
+---
+
 ## ⚙️ Local Setup
 
 ### 1️⃣ Clone the Repository
